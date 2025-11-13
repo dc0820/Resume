@@ -144,6 +144,10 @@ Recent graduate with a Bachelor of Business Administration in Cyber Security fro
   *Personal Project (2023)*  
   - Created a 3D portfolio using React and Three.js, featuring interactive animations and portfolio projects in a scene environment.
   - Emphasized visual engagement and interactivity, demonstrating advanced knowledge in web development and animation.
+ 
+- **Other Python Projects**
+  - [github.com/dc0820/Python-Projects](https://github.com/dc0820/Python-Projects)
+  - This project list were my progression over time when learning python over projects
 
 ---
 
