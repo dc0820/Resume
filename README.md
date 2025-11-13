@@ -1,11 +1,9 @@
 # Daniel Wayne Cook - Resume
 
 ## Contact Information
-**Location:** San Antonio, Texas  
-**Phone:** (210) 990-9940  
-**Email:** [danielwcook5@gmail.com](mailto:danielwcook5@gmail.com)  
+**Location:** Texas  
 **LinkedIn:** [linkedin.com/in/danielwaynecook](https://www.linkedin.com/in/danielwaynecook/)  
-**Website:** [danielcook.org](https://www.danielcook.org) | [danielcookjs.org](https://www.danielcookjs.org)
+**Website:** [danielcook.org](https://www.danielcook.org)
 
 ---
 
@@ -21,7 +19,7 @@ Recent graduate with a Bachelor of Business Administration in Cyber Security fro
 - **GPA:** 3.57 / 4.0  
 
 ### Certifications:
-- **CompTIA Security+** (2023)  
+- **CompTIA Security+** (On-Going)  
 - **Google Cybersecurity Professional Certificate** (2023)
 
 ---
@@ -29,10 +27,10 @@ Recent graduate with a Bachelor of Business Administration in Cyber Security fro
 ## Technical Skills
 
 ### Programming Languages
-- Python, Java, JavaScript, TypeScript
+- Python, Java, JavaScript, TypeScript, SQL
 
 ### Web Development
-- React, CSS
+- React, CSS, HTML
 
 ### Cybersecurity
 - **Malware Analysis:** x32dbg, YARA, PEStudio, bstrings, Wireshark  
